@@ -1,0 +1,10 @@
+.error {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.error-image {
+    height: 200px;
+    margin-bottom: 21px;
+}

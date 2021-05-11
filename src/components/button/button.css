@@ -1,0 +1,22 @@
+.button {
+    border-radius: 50px;
+    border-color: #123693;
+    border-width: 2px;
+    color: #123693;
+    background-color: #fff;
+    padding: 10px 15px 10px 15px;
+    line-height: 1.2;
+    letter-spacing: 2px;
+    font-size: 13px;
+    width: 160px;
+    border-style: solid;
+}
+
+.button:focus:not(.disabled),
+.button:hover:not(.disabled) {
+    background-color: #ffdb13;
+}
+
+.disabled {
+    background-color: #a6a6a6;
+}

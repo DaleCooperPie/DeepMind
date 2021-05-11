@@ -1,0 +1,10 @@
+.waiting-container {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.waiting-image {
+    height: 250px;
+    margin-bottom: 15px;
+}
